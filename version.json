@@ -1,0 +1,5 @@
+{
+  "version": "0.1.0",
+  "apk": "https://github.com/fk-M/shiguang-butler/releases/download/v0.1.0/ShiguangButler-Android-0.1.0.apk",
+  "notes": "首个安卓版本：本地数据库、任务与附件、综测台账与导出。"
+}
