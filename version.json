@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
-  "apk": "https://github.com/fk-M/shiguang-butler/releases/download/v0.1.0/ShiguangButler-Android-0.1.0.apk",
-  "notes": "首个安卓版本：本地数据库、任务与附件、综测台账与导出。"
+  "version": "0.1.1",
+  "apk": "https://github.com/fk-M/shiguang-butler/releases/download/v0.1.1/ShiguangButler-Android-0.1.1.apk",
+  "notes": "待办支持自然语言识别截止时间；记账与综测成果可直接修改、删除；安卓端综测导出改用系统分享保存。"
 }
