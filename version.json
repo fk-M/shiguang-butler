@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
-  "apk": "https://github.com/fk-M/shiguang-butler/releases/download/v0.1.1/ShiguangButler-Android-0.1.1.apk",
-  "notes": "待办支持自然语言识别截止时间；记账与综测成果可直接修改、删除；安卓端综测导出改用系统分享保存。"
+  "version": "0.2.0",
+  "apk": "https://github.com/fk-M/shiguang-butler/releases/download/v0.2.0/ShiguangButler-Android-0.2.0.apk",
+  "notes": "新增到期提醒通知与桌面待办小组件，设置页改为分区导航；修复鸿蒙 4.x 旧内核白屏；另附 HarmonyOS NEXT 壳工程（需自行构建 HAP）。"
 }
