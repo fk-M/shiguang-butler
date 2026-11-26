@@ -1,5 +1,5 @@
 {
-  "version": "0.3.1",
-  "apk": "https://github.com/fk-M/shiguang-butler/releases/download/v0.3.1/ShiguangButler-Android-0.3.1.apk",
-  "notes": "修复 0.3.0 启动时报 column followed does not exist 的问题（旧版本升级与全新安装均已覆盖）；桌面小组件、四象限、综测生涯发展与手机端通知/arXiv 抓取保持 0.3.0 的改进。"
+  "version": "0.5.0",
+  "apk": "https://github.com/fk-M/shiguang-butler/releases/download/v0.5.0/ShiguangButler-Android-0.5.0.apk",
+  "notes": "新增齐鲁交通学院综测算分与专属导出材料；集成电路学院身心素养纳入心理赛事参与和获奖；选择山东大学其他学院时按集成电路口径算分导出，竞赛备案名单合并学校通用与本学院特色；倒数纪念日并入待办视图与清单/四象限/日历并列；桌面版更新安装自动关闭运行中的旧版本；新增 HarmonyOS NEXT（ArkWeb）安装包。"
 }
