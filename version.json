@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
-  "apk": "https://github.com/fk-M/shiguang-butler/releases/download/v0.2.0/ShiguangButler-Android-0.2.0.apk",
-  "notes": "新增到期提醒通知与桌面待办小组件，设置页改为分区导航；修复鸿蒙 4.x 旧内核白屏；另附 HarmonyOS NEXT 壳工程（需自行构建 HAP）。"
+  "version": "0.3.0",
+  "apk": "https://github.com/fk-M/shiguang-butler/releases/download/v0.3.0/ShiguangButler-Android-0.3.0.apk",
+  "notes": "修复安卓桌面小组件并支持添加待办/四象限/今日课表三种磁贴；待办四象限改为 DDL 式 2×2 网格与长按拖动；综测补齐劳动素养的生涯发展（活动与获奖）和退役复学；手机端启用原生网络通道可抓取通知与 arXiv 文献；安装包不再内置示例数据，升级保留个人数据。"
 }
